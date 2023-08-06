@@ -1,0 +1,14 @@
+/limine
+/ovmf
+*.iso
+*.hdd
+/kernel/include/hpet.h
+/kernel/include/png.h
+/kernel/include/bmp.h
+/kernel/src/hpet.c
+/kernel/src/png.c
+/kernel/src/bmp.c
+/kernel/src/pmm.c
+/kernel/src/*.c.d
+/kernel/src/*.c.o
+/kernel/src/asm/*.asm.o

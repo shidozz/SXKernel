@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.s": "gas",
+        "kio.h": "c",
+        "idt.h": "c",
+        "isrs.h": "c",
+        "stddef.h": "c",
+        "common.h": "c",
+        "serial.h": "c",
+        "window.h": "c",
+        "pit.h": "c"
+    }
+}

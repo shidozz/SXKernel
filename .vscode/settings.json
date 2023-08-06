@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.s": "gas",
+        "kio.h": "c",
+        "common.h": "c",
+        "window.h": "c",
+        "idt.h": "c",
+        "gdt.h": "c",
+        "stdint.h": "c",
+        "system_error": "c",
+        "serial.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "graph.h": "c",
+        "fonts.h": "c",
+        "stddef.h": "c",
+        "pit.h": "c",
+        "convert.h": "c",
+        "term.h": "c",
+        "bmp.h": "c",
+        "irq.h": "c",
+        "atomic": "c",
+        "keyboard.h": "c",
+        "heap.h": "c",
+        "stdbool.h": "c",
+        "isrs.h": "c",
+        "pic.h": "c",
+        "hpet.h": "c"
+    }
+}
